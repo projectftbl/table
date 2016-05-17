@@ -1,0 +1,3 @@
+### @ftbl/table
+
+Table components.
