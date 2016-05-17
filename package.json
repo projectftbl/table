@@ -19,6 +19,7 @@
     "url": "git@github.com:projectftbl/table.git"
   },
   "dependencies": {
+    "@ftbl/navigation": "^1.0.1",
     "color": "^0.10.1",
     "lodash": "^3.10.1",
     "radium": "^0.16.6",
