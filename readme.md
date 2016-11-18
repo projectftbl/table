@@ -1,3 +1,3 @@
-### @ftbl/table
+### @recipher/table
 
 Table components.
